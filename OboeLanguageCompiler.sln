@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OboeCompiler", "OboeCompiler\OboeCompiler.csproj", "{AB2EA7A4-A792-4E8F-991E-85E1074681F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Runner", "Runner\Runner.csproj", "{D57A8D23-7A6F-4B0B-8FD2-DAB4D374209F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB2EA7A4-A792-4E8F-991E-85E1074681F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB2EA7A4-A792-4E8F-991E-85E1074681F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB2EA7A4-A792-4E8F-991E-85E1074681F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB2EA7A4-A792-4E8F-991E-85E1074681F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D57A8D23-7A6F-4B0B-8FD2-DAB4D374209F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D57A8D23-7A6F-4B0B-8FD2-DAB4D374209F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D57A8D23-7A6F-4B0B-8FD2-DAB4D374209F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D57A8D23-7A6F-4B0B-8FD2-DAB4D374209F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
