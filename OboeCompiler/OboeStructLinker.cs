@@ -8,7 +8,7 @@ namespace OboeCompiler
         public float a;
         public float b;
 
-        public static void LinkId(OboeStructLinker structLinker)
+        public static void AddId(OboeStructLinker structLinker)
         {
             structLinker.BindId("$bind.a");
             structLinker.BindId("$bind.b");

@@ -20,7 +20,7 @@ namespace Runner
             Instruction[]    instrs;
             ExecuteContext   context;
 
-            BindTest.LinkId(linker);
+            BindTest.AddId(linker);
             compiler.SetLinker(linker);
             compiler.AppendProgram(root);
             instrs  = compiler.Instructions.ToArray();
